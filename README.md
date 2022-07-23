@@ -1,3 +1,1 @@
-# personal project
-
-dev
+# Taylan Gerdan personal website
